@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">crypto</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="empty_watchlist">Emptywatchlist</string>
+    <string name="not_found">Not_found</string>
+    <string name="search_hint">Searchhint</string>
+    <string name="_1h">-1h</string>
+    <string name="_15m">-15m</string>
+    <string name="_4h">-4h</string>
+    <string name="_1d">-1d</string>
+    <string name="_1w">-1w</string>
+    <string name="_1m">-1m</string>
+</resources>
